@@ -1,6 +1,8 @@
 # MySQL_Project
 hosting MySQL project
-Project Title: Sales Performance Analysis of Walmart Stores Using Advanced MySQL Techniques
+Project Title: 
+
+## Sales Performance Analysis of Walmart Stores Using Advanced MySQL Techniques
 
 Video explanation is : https://drive.google.com/file/d/1xcNOPFzC9OyOBxZ_Tk9dCdbMk1imz7zY/view
 
